@@ -176,7 +176,7 @@ if __name__ == "__main__":
     sp_info_mundial(2022, grupo="A")
 
     print("\n=== DEMO sp_info_pais ===")
-    sp_info_pais("Argentina")
+    sp_info_pais("Alemania")
 
     print("\n=== DEMO sp_info_pais con filtro de anio ===")
     sp_info_pais("Argentina", anio=1986)

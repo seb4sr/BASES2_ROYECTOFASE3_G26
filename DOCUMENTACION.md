@@ -11,6 +11,7 @@
 1. [Punto B — Creación de colecciones, índices y carga de datos](#punto-b)
 2. [Punto C — Método sp_info_mundial](#punto-c)
 3. [Punto D — Método sp_info_pais](#punto-d)
+4. [Consultas en MongoDB Compass y mongosh](#consultas-mongo)
 
 ---
 
@@ -1070,7 +1071,7 @@ Ejecuta automáticamente cuatro ejemplos de demostración.
 ```python
 from consultas import sp_info_mundial, sp_info_pais
 
-sp_info_mundial(1930)
+sp_info_mundial(1986)
 sp_info_pais("Francia")
 ```
 
@@ -1095,3 +1096,571 @@ python
 | `Querys/ddl.sql` | DDL original de la base de datos relacional MySQL |
 | `Querys/sp_info_mundial.sql` | Stored procedure original en MySQL |
 | `Querys/sp_info_pais.sql` | Stored procedure original en MySQL |
+
+---
+
+<a name="consultas-mongo"></a>
+# CONSULTAS EN MONGODB COMPASS Y MONGOSH
+
+## ¿Qué es mongosh y cómo se usa?
+
+**mongosh** es la consola interactiva oficial de MongoDB. Se puede abrir directamente desde **MongoDB Compass** haciendo clic en el botón `>_MONGOSH` que aparece en la barra inferior de la aplicación, o ejecutando `mongosh` desde la terminal del sistema.
+
+Todas las consultas de esta sección se escriben en mongosh y retornan exactamente la misma información que los métodos de Python, pero en formato JSON directamente desde la base de datos.
+
+### Antes de ejecutar cualquier consulta
+
+```javascript
+// Seleccionar la base de datos del proyecto
+use mundiales_db
+```
+
+Esto le indica a MongoDB en qué base de datos trabajar. Solo se hace una vez al abrir la sesión.
+
+---
+
+## Equivalente a `sp_info_mundial`
+
+---
+
+### Caso 1 — Todo el Mundial sin filtros
+
+**Python:**
+```python
+sp_info_mundial(2022)
+```
+
+**mongosh / Compass:**
+```javascript
+db.mundiales.findOne({ anio: 2022 })
+```
+
+**¿Qué retorna?**  
+El documento completo del Mundial 2022 con grupos, partidos, goleadores, posiciones finales y premios tal como fue guardado.
+
+**Cómo usarlo en Compass (pestaña Documents):**  
+En el campo **Filter** escribir:
+```json
+{ "anio": 2022 }
+```
+Presionar **Find** y aparece el documento completo.
+
+---
+
+### Caso 2 — Filtrar partidos por grupo
+
+**Python:**
+```python
+sp_info_mundial(2022, grupo="A")
+```
+
+**mongosh / Compass:**
+```javascript
+db.mundiales.aggregate([
+  { $match: { anio: 2022 } },
+  {
+    $project: {
+      anio: 1,
+      nombre: 1,
+      sede: 1,
+      grupos: 1,
+      goleadores: 1,
+      posiciones_finales: 1,
+      premios: 1,
+      partidos: {
+        $filter: {
+          input: "$partidos",
+          as: "p",
+          cond: { $eq: ["$$p.grupo", "A"] }
+        }
+      }
+    }
+  }
+])
+```
+
+**¿Qué retorna?**  
+El documento del Mundial 2022 igual que antes, pero el arreglo `partidos` solo contiene los 6 partidos del Grupo A (Catar, Ecuador, Países Bajos, Senegal).
+
+**Salida esperada en `partidos` (fragmento):**
+```json
+"partidos": [
+  {
+    "numero_partido": 1,
+    "fecha": "2022-11-20T00:00:00.000Z",
+    "fase": "1ra Ronda",
+    "grupo": "A",
+    "local": "Catar",
+    "goles_local": 0,
+    "goles_visita": 2,
+    "visita": "Ecuador",
+    "resultado": "Ecuador"
+  },
+  {
+    "numero_partido": 3,
+    "fecha": "2022-11-21T00:00:00.000Z",
+    "fase": "1ra Ronda",
+    "grupo": "A",
+    "local": "Senegal",
+    "goles_local": 0,
+    "goles_visita": 2,
+    "visita": "Paises Bajos",
+    "resultado": "Paises Bajos"
+  }
+]
+```
+
+**Cómo usarlo en Compass (pestaña Aggregations):**  
+Agregar dos etapas:
+- Etapa 1: `$match` → `{ "anio": 2022 }`
+- Etapa 2: `$project` → pegar el bloque `$project` de arriba
+
+---
+
+### Caso 3 — Filtrar partidos por país
+
+**Python:**
+```python
+sp_info_mundial(2022, pais="Argentina")
+```
+
+**mongosh / Compass:**
+```javascript
+db.mundiales.aggregate([
+  { $match: { anio: 2022 } },
+  {
+    $project: {
+      anio: 1,
+      nombre: 1,
+      sede: 1,
+      grupos: 1,
+      goleadores: 1,
+      posiciones_finales: 1,
+      premios: 1,
+      partidos: {
+        $filter: {
+          input: "$partidos",
+          as: "p",
+          cond: {
+            $or: [
+              { $eq: ["$$p.local",  "Argentina"] },
+              { $eq: ["$$p.visita", "Argentina"] }
+            ]
+          }
+        }
+      }
+    }
+  }
+])
+```
+
+**¿Qué retorna?**  
+Solo los 7 partidos donde Argentina fue local o visitante durante el Mundial 2022, desde la fase de grupos hasta la final.
+
+**Salida esperada en `partidos` (fragmento):**
+```json
+"partidos": [
+  {
+    "numero_partido": 5,
+    "fecha": "2022-11-22T00:00:00.000Z",
+    "fase": "1ra Ronda",
+    "grupo": "C",
+    "local": "Argentina",
+    "goles_local": 1,
+    "goles_visita": 2,
+    "visita": "Arabia Saudita",
+    "resultado": "Arabia Saudita"
+  },
+  {
+    "numero_partido": 63,
+    "fecha": "2022-12-18T00:00:00.000Z",
+    "fase": "Final",
+    "grupo": null,
+    "local": "Argentina",
+    "goles_local": 3,
+    "goles_visita": 3,
+    "visita": "Francia",
+    "resultado": "Empate"
+  }
+]
+```
+
+---
+
+### Caso 4 — Filtrar partidos por fecha
+
+**Python:**
+```python
+sp_info_mundial(2022, fecha="22-Nov-2022")
+```
+
+**mongosh / Compass:**
+```javascript
+db.mundiales.aggregate([
+  { $match: { anio: 2022 } },
+  {
+    $project: {
+      anio: 1,
+      nombre: 1,
+      sede: 1,
+      grupos: 1,
+      goleadores: 1,
+      posiciones_finales: 1,
+      premios: 1,
+      partidos: {
+        $filter: {
+          input: "$partidos",
+          as: "p",
+          cond: {
+            $eq: [
+              { $dateToString: { format: "%Y-%m-%d", date: "$$p.fecha" } },
+              "2022-11-22"
+            ]
+          }
+        }
+      }
+    }
+  }
+])
+```
+
+**¿Qué retorna?**  
+Solo los partidos jugados el 22 de noviembre de 2022. La expresión `$dateToString` convierte la fecha guardada a texto en formato `YYYY-MM-DD` para poder compararla.
+
+**Salida esperada en `partidos`:**
+```json
+"partidos": [
+  {
+    "numero_partido": 5,  "fecha": "2022-11-22T00:00:00.000Z",
+    "fase": "1ra Ronda",  "grupo": "C",
+    "local": "Argentina", "goles_local": 1,
+    "goles_visita": 2,    "visita": "Arabia Saudita",
+    "resultado": "Arabia Saudita"
+  },
+  {
+    "numero_partido": 6,  "fecha": "2022-11-22T00:00:00.000Z",
+    "fase": "1ra Ronda",  "grupo": "D",
+    "local": "Dinamarca", "goles_local": 0,
+    "goles_visita": 0,    "visita": "Tunez",
+    "resultado": "Empate"
+  },
+  {
+    "numero_partido": 7,  "fecha": "2022-11-22T00:00:00.000Z",
+    "fase": "1ra Ronda",  "grupo": "C",
+    "local": "Mexico",    "goles_local": 0,
+    "goles_visita": 0,    "visita": "Polonia",
+    "resultado": "Empate"
+  },
+  {
+    "numero_partido": 8,  "fecha": "2022-11-22T00:00:00.000Z",
+    "fase": "1ra Ronda",  "grupo": "D",
+    "local": "Francia",   "goles_local": 4,
+    "goles_visita": 1,    "visita": "Australia",
+    "resultado": "Francia"
+  }
+]
+```
+
+---
+
+### Caso 5 — Combinar filtros: grupo + país
+
+**Python:**
+```python
+sp_info_mundial(2022, grupo="C", pais="Argentina")
+```
+
+**mongosh / Compass:**
+```javascript
+db.mundiales.aggregate([
+  { $match: { anio: 2022 } },
+  {
+    $project: {
+      anio: 1,
+      nombre: 1,
+      sede: 1,
+      grupos: 1,
+      goleadores: 1,
+      posiciones_finales: 1,
+      premios: 1,
+      partidos: {
+        $filter: {
+          input: "$partidos",
+          as: "p",
+          cond: {
+            $and: [
+              { $eq: ["$$p.grupo", "C"] },
+              {
+                $or: [
+                  { $eq: ["$$p.local",  "Argentina"] },
+                  { $eq: ["$$p.visita", "Argentina"] }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+])
+```
+
+**¿Qué retorna?**  
+Solo los partidos de Argentina dentro del Grupo C (los 3 partidos de fase de grupos).
+
+---
+
+## Equivalente a `sp_info_pais`
+
+---
+
+### Caso 1 — Historia completa de un país sin filtros
+
+**Python:**
+```python
+sp_info_pais("Argentina")
+```
+
+**mongosh / Compass:**
+```javascript
+db.selecciones.findOne({ nombre: "Argentina" })
+```
+
+**¿Qué retorna?**  
+El documento completo de Argentina con todas sus participaciones en Mundiales, sus partidos por torneo, posiciones finales y los años en que fue sede.
+
+**Cómo usarlo en Compass (pestaña Documents):**  
+En el campo **Filter** escribir:
+```json
+{ "nombre": "Argentina" }
+```
+
+**Salida esperada (fragmento del encabezado):**
+```json
+{
+  "_id": "Argentina",
+  "nombre": "Argentina",
+  "sedes": [1978],
+  "participaciones": [
+    { "anio": 1930, ... },
+    { "anio": 1934, ... },
+    ...
+    { "anio": 2022, ... }
+  ]
+}
+```
+
+---
+
+### Caso 2 — Historia de un país filtrada por año de Mundial
+
+**Python:**
+```python
+sp_info_pais("Argentina", anio=1986)
+```
+
+**mongosh / Compass:**
+```javascript
+db.selecciones.aggregate([
+  { $match: { nombre: "Argentina" } },
+  {
+    $project: {
+      nombre: 1,
+      sedes: 1,
+      participaciones: {
+        $filter: {
+          input: "$participaciones",
+          as: "p",
+          cond: { $eq: ["$$p.anio", 1986] }
+        }
+      }
+    }
+  }
+])
+```
+
+**¿Qué retorna?**  
+El documento de Argentina pero con el arreglo `participaciones` reducido a solo el Mundial de México 1986, mostrando todos sus partidos y posición final.
+
+**Salida esperada:**
+```json
+{
+  "_id": "Argentina",
+  "nombre": "Argentina",
+  "sedes": [1978],
+  "participaciones": [
+    {
+      "anio": 1986,
+      "nombre_mundial": "Mundial 1986",
+      "sede": "Mexico",
+      "grupos": [
+        { "fase": "1ra Ronda", "codigo": "A" }
+      ],
+      "partidos": [
+        {
+          "numero_partido": 2,
+          "fecha": "1986-06-02T00:00:00.000Z",
+          "fase": "1ra Ronda",
+          "grupo": "A",
+          "local": "Argentina",
+          "goles_local": 3,
+          "goles_visita": 1,
+          "visita": "Corea del Sur",
+          "resultado": "Argentina"
+        },
+        {
+          "numero_partido": 63,
+          "fecha": "1986-06-29T00:00:00.000Z",
+          "fase": "Final",
+          "grupo": null,
+          "local": "Argentina",
+          "goles_local": 3,
+          "goles_visita": 2,
+          "visita": "Alemania",
+          "resultado": "Argentina"
+        }
+      ],
+      "posicion_final": {
+        "posicion": 1,
+        "seleccion": "Argentina",
+        "etapa": "Final",
+        "pts": 14,
+        "pj": 7,
+        "pg": 6,
+        "pe": 1,
+        "pp": 0,
+        "gf": 14,
+        "gc": 5,
+        "dif": 9
+      }
+    }
+  ]
+}
+```
+
+---
+
+## Consultas adicionales útiles para la calificación
+
+Estas consultas extra son útiles si el catedrático pide información específica en el momento de la calificación.
+
+### Ver solo los premios de un Mundial
+
+```javascript
+db.mundiales.findOne(
+  { anio: 2022 },
+  { premios: 1, nombre: 1, _id: 0 }
+)
+```
+
+### Ver solo los goleadores de un Mundial
+
+```javascript
+db.mundiales.findOne(
+  { anio: 2022 },
+  { goleadores: 1, nombre: 1, _id: 0 }
+)
+```
+
+### Ver solo las posiciones finales de un Mundial
+
+```javascript
+db.mundiales.findOne(
+  { anio: 2022 },
+  { posiciones_finales: 1, nombre: 1, _id: 0 }
+)
+```
+
+### Ver todos los Mundiales que organizó un país
+
+```javascript
+db.mundiales.find(
+  { sede: "Brasil" },
+  { anio: 1, nombre: 1, sede: 1, _id: 0 }
+)
+```
+
+**Salida esperada:**
+```json
+[
+  { "anio": 1950, "nombre": "Mundial 1950", "sede": "Brasil" },
+  { "anio": 2014, "nombre": "Mundial 2014", "sede": "Brasil" }
+]
+```
+
+### Ver en qué Mundiales participó un país (solo los años)
+
+```javascript
+db.selecciones.aggregate([
+  { $match: { nombre: "Mexico" } },
+  { $project: {
+      nombre: 1,
+      sedes: 1,
+      anios_participacion: {
+        $map: {
+          input: "$participaciones",
+          as: "p",
+          in: "$$p.anio"
+        }
+      }
+  }}
+])
+```
+
+**Salida esperada:**
+```json
+{
+  "nombre": "Mexico",
+  "sedes": [1970, 1986],
+  "anios_participacion": [1930, 1950, 1954, 1958, 1962, 1966, 1970, 1978, 1986, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]
+}
+```
+
+### Ver cuántos goles metió un país en un Mundial específico
+
+```javascript
+db.selecciones.aggregate([
+  { $match: { nombre: "Brasil" } },
+  { $unwind: "$participaciones" },
+  { $match: { "participaciones.anio": 2014 } },
+  {
+    $project: {
+      nombre: 1,
+      anio: "$participaciones.anio",
+      total_goles_favor: {
+        $sum: {
+          $map: {
+            input: "$participaciones.partidos",
+            as: "p",
+            in: {
+              $cond: [
+                { $eq: ["$$p.local", "Brasil"] },
+                "$$p.goles_local",
+                "$$p.goles_visita"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+])
+```
+
+**Salida esperada:**
+```json
+{ "nombre": "Brasil", "anio": 2014, "total_goles_favor": 11 }
+```
+
+---
+
+## Resumen de equivalencias Python ↔ mongosh
+
+| Acción | Python | mongosh |
+|---|---|---|
+| Todo un Mundial | `sp_info_mundial(2022)` | `db.mundiales.findOne({anio: 2022})` |
+| Mundial filtrado por grupo | `sp_info_mundial(2022, grupo="A")` | `aggregate` con `$filter` en partidos por `grupo` |
+| Mundial filtrado por país | `sp_info_mundial(2022, pais="Argentina")` | `aggregate` con `$filter` por `local` o `visita` |
+| Mundial filtrado por fecha | `sp_info_mundial(2022, fecha="22-Nov-2022")` | `aggregate` con `$filter` y `$dateToString` |
+| Historia completa de un país | `sp_info_pais("Argentina")` | `db.selecciones.findOne({nombre: "Argentina"})` |
+| País en un año específico | `sp_info_pais("Argentina", anio=1986)` | `aggregate` con `$filter` en participaciones por `anio` |
