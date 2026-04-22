@@ -1,0 +1,65 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+2010,1,11-Jun-2010,1ra Ronda,A,Sudafrica,1,1,Mexico
+2010,2,11-Jun-2010,1ra Ronda,A,Uruguay,0,0,Francia
+2010,3,12-Jun-2010,1ra Ronda,B,Argentina,1,0,Nigeria
+2010,4,12-Jun-2010,1ra Ronda,B,Corea del Sur,2,0,Grecia
+2010,5,12-Jun-2010,1ra Ronda,C,Inglaterra,1,1,Estados Unidos
+2010,6,13-Jun-2010,1ra Ronda,C,Argelia,0,1,Eslovenia
+2010,7,13-Jun-2010,1ra Ronda,D,Alemania,4,0,Australia
+2010,8,13-Jun-2010,1ra Ronda,D,Serbia,0,1,Ghana
+2010,9,14-Jun-2010,1ra Ronda,E,Paises Bajos,2,0,Dinamarca
+2010,10,14-Jun-2010,1ra Ronda,E,Japon,1,0,Camerun
+2010,11,14-Jun-2010,1ra Ronda,F,Italia,1,1,Paraguay
+2010,12,15-Jun-2010,1ra Ronda,F,Nueva Zelanda,1,1,Eslovaquia
+2010,13,15-Jun-2010,1ra Ronda,G,Costa de Marfil,0,0,Portugal
+2010,14,15-Jun-2010,1ra Ronda,G,Brasil,2,1,Corea del Norte
+2010,15,16-Jun-2010,1ra Ronda,H,Honduras,0,1,Chile
+2010,16,16-Jun-2010,1ra Ronda,H,Espana,0,1,Suiza
+2010,17,16-Jun-2010,1ra Ronda,A,Sudafrica,0,3,Uruguay
+2010,18,17-Jun-2010,1ra Ronda,A,Francia,0,2,Mexico
+2010,19,17-Jun-2010,1ra Ronda,B,Grecia,2,1,Nigeria
+2010,20,17-Jun-2010,1ra Ronda,B,Argentina,4,1,Corea del Sur
+2010,21,18-Jun-2010,1ra Ronda,D,Alemania,0,1,Serbia
+2010,22,18-Jun-2010,1ra Ronda,C,Eslovenia,2,2,Estados Unidos
+2010,23,18-Jun-2010,1ra Ronda,C,Inglaterra,0,0,Argelia
+2010,24,19-Jun-2010,1ra Ronda,D,Ghana,1,1,Australia
+2010,25,19-Jun-2010,1ra Ronda,E,Paises Bajos,1,0,Japon
+2010,26,19-Jun-2010,1ra Ronda,E,Camerun,1,2,Dinamarca
+2010,27,20-Jun-2010,1ra Ronda,F,Eslovaquia,0,2,Paraguay
+2010,28,20-Jun-2010,1ra Ronda,F,Italia,1,1,Nueva Zelanda
+2010,29,20-Jun-2010,1ra Ronda,G,Brasil,3,1,Costa de Marfil
+2010,30,21-Jun-2010,1ra Ronda,G,Portugal,7,0,Corea del Norte
+2010,31,21-Jun-2010,1ra Ronda,H,Chile,1,0,Suiza
+2010,32,21-Jun-2010,1ra Ronda,H,Espana,2,0,Honduras
+2010,33,22-Jun-2010,1ra Ronda,A,Mexico,0,1,Uruguay
+2010,34,22-Jun-2010,1ra Ronda,A,Francia,1,2,Sudafrica
+2010,35,22-Jun-2010,1ra Ronda,B,Nigeria,2,2,Corea del Sur
+2010,36,22-Jun-2010,1ra Ronda,B,Grecia,0,2,Argentina
+2010,37,23-Jun-2010,1ra Ronda,C,Eslovenia,0,1,Inglaterra
+2010,38,23-Jun-2010,1ra Ronda,C,Estados Unidos,1,0,Argelia
+2010,39,23-Jun-2010,1ra Ronda,D,Ghana,0,1,Alemania
+2010,40,23-Jun-2010,1ra Ronda,D,Australia,2,1,Serbia
+2010,41,24-Jun-2010,1ra Ronda,F,Eslovaquia,3,2,Italia
+2010,42,24-Jun-2010,1ra Ronda,F,Paraguay,0,0,Nueva Zelanda
+2010,43,24-Jun-2010,1ra Ronda,E,Dinamarca,1,3,Japon
+2010,44,24-Jun-2010,1ra Ronda,E,Camerun,1,2,Paises Bajos
+2010,45,25-Jun-2010,1ra Ronda,G,Portugal,0,0,Brasil
+2010,46,25-Jun-2010,1ra Ronda,G,Corea del Norte,0,3,Costa de Marfil
+2010,47,25-Jun-2010,1ra Ronda,H,Chile,1,2,Espana
+2010,48,25-Jun-2010,1ra Ronda,H,Suiza,0,0,Honduras
+2010,49,26-Jun-2010,Octavos,,Uruguay,2,1,Corea del Sur
+2010,50,26-Jun-2010,Octavos,,Estados Unidos,1,2,Ghana
+2010,51,27-Jun-2010,Octavos,,Alemania,4,1,Inglaterra
+2010,52,27-Jun-2010,Octavos,,Argentina,3,1,Mexico
+2010,53,28-Jun-2010,Octavos,,Paises Bajos,2,1,Eslovaquia
+2010,54,28-Jun-2010,Octavos,,Brasil,3,0,Chile
+2010,55,29-Jun-2010,Octavos,,Paraguay,0,0,Japon
+2010,56,29-Jun-2010,Octavos,,Espana,1,0,Portugal
+2010,57,02-Jul-2010,Cuartos,,Paises Bajos,2,1,Brasil
+2010,58,02-Jul-2010,Cuartos,,Uruguay,1,1,Ghana
+2010,59,03-Jul-2010,Cuartos,,Argentina,0,4,Alemania
+2010,60,03-Jul-2010,Cuartos,,Paraguay,0,1,Espana
+2010,61,06-Jul-2010,Semis,,Uruguay,2,3,Paises Bajos
+2010,62,07-Jul-2010,Semis,,Alemania,0,1,Espana
+2010,63,10-Jul-2010,3er Puesto,,Uruguay,2,3,Alemania
+2010,64,11-Jul-2010,Final,,Paises Bajos,0,1,Espana

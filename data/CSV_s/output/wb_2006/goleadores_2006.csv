@@ -1,0 +1,107 @@
+anio,posicion,jugador,goles,partidos,promedio_gol,seleccion
+2006,1,Miroslav Klose,5,7,0.71,Alemania
+2006,2,Hernan Crespo,3,4,0.75,Argentina
+2006,2,Thierry Henry,3,7,0.43,Francia
+2006,2,Lukas Podolski,3,7,0.43,Alemania
+2006,2,Maxi Rodriguez,3,5,0.6,Argentina
+2006,2,Ronaldo,3,5,0.6,Brasil
+2006,2,Fernando Torres,3,4,0.75,Espana
+2006,2,David Villa,3,4,0.75,Espana
+2006,2,Zinedine Zidane,3,6,0.5,Francia
+2006,10,Adriano,2,4,0.5,Brasil
+2006,10,Bartosz Bosacki,2,2,1.0,Polonia
+2006,10,Omar Bravo,2,3,0.67,Mexico
+2006,10,Tim Cahill,2,4,0.5,Australia
+2006,10,Agustin Delgado,2,3,0.67,Ecuador
+2006,10,Aruna Dindane,2,3,0.67,Costa de Marfil
+2006,10,Alexander Frei,2,4,0.5,Suiza
+2006,10,Steven Gerrard,2,5,0.4,Inglaterra
+2006,10,Maniche,2,7,0.29,Portugal
+2006,10,Marco Materazzi,2,4,0.5,Italia
+2006,10,Tomas Rosicky,2,3,0.67,Republica Checa
+2006,10,Bastian Schweinsteiger,2,7,0.29,Alemania
+2006,10,Andriy Shevchenko,2,5,0.4,Ucrania
+2006,10,Carlos Tenorio,2,3,0.67,Ecuador
+2006,10,Luca Toni,2,6,0.33,Italia
+2006,10,Patrick Vieira,2,7,0.29,Francia
+2006,10,Paulo Wanchope,2,3,0.67,Costa Rica
+2006,27,Jung Hwan Ahn,1,3,0.33,Corea del Sur
+2006,27,Sami Al Jaber,1,3,0.33,Arabia Saudita
+2006,27,Yasser Al Kahtani,1,2,0.5,Arabia Saudita
+2006,27,Marcus Allback,1,4,0.25,Suecia
+2006,27,John Aloisi,1,4,0.25,Australia
+2006,27,Xabi Alonso,1,3,0.33,Espana
+2006,27,Stephen Appiah,1,4,0.25,Ghana
+2006,27,Roberto Ayala,1,5,0.2,Argentina
+2006,27,Sohrab Bakhtiarizadeh,1,2,0.5,Iran
+2006,27,Tranquillo Barnetta,1,4,0.25,Suiza
+2006,27,David Beckham,1,5,0.2,Inglaterra
+2006,27,Esteban Cambiasso,1,5,0.2,Argentina
+2006,27,Joe Cole,1,5,0.2,Inglaterra
+2006,27,Peter Crouch,1,4,0.25,Inglaterra
+2006,27,Nelson Cuevas,1,2,0.5,Paraguay
+2006,27,Deco,1,4,0.25,Portugal
+2006,27,Alessandro Del Piero,1,5,0.2,Italia
+2006,27,Clint Dempsey,1,2,0.5,Estados Unidos
+2006,27,Haminu Draman,1,2,0.5,Ghana
+2006,27,Didier Drogba,1,2,0.5,Costa de Marfil
+2006,27,Flavio,1,1,1.0,Angola
+2006,27,Jose Fonseca,1,4,0.25,Mexico
+2006,27,Fred,1,1,1.0,Brasil
+2006,27,Torsten Frings,1,6,0.17,Alemania
+2006,27,Alberto Gilardino,1,5,0.2,Italia
+2006,27,Gilberto Melo,1,1,1.0,Brasil
+2006,27,Yahya Golmohammadi,1,2,0.5,Iran
+2006,27,Ronald Gomez,1,3,0.33,Costa Rica
+2006,27,Fabio Grosso,1,6,0.17,Italia
+2006,27,Asamoah Gyan,1,3,0.33,Ghana
+2006,27,Vincenzo Iaquinta,1,5,0.2,Italia
+2006,27,Sasa Ilic,1,1,1.0,Serbia y Montenegro
+2006,27,Filippo Inzaghi,1,1,1.0,Italia
+2006,27,Radhi Jaidi,1,3,0.33,Tunez
+2006,27,Zied Jaziri,1,3,0.33,Tunez
+2006,27,Juanito,1,1,1.0,Espana
+2006,27,Juninho Pernambucano,1,3,0.33,Brasil
+2006,27,Kaka,1,5,0.2,Brasil
+2006,27,Maksym Kalinichenko,1,4,0.25,Ucrania
+2006,27,Bonaventure Kalou,1,2,0.5,Costa de Marfil
+2006,27,Ivan Kaviedes,1,4,0.25,Ecuador
+2006,27,Harry Kewell,1,3,0.33,Australia
+2006,27,Jan Koller,1,1,1.0,Republica Checa
+2006,27,Bakary Kone,1,3,0.33,Costa de Marfil
+2006,27,Niko Kovac,1,3,0.33,Croacia
+2006,27,Philipp Lahm,1,7,0.14,Alemania
+2006,27,Henrik Larsson,1,4,0.25,Suecia
+2006,27,Chun Soo Lee,1,3,0.33,Corea del Sur
+2006,27,Fredrik Ljungberg,1,4,0.25,Suecia
+2006,27,Rafael Marquez,1,4,0.25,Mexico
+2006,27,Lionel Messi,1,3,0.33,Argentina
+2006,27,Jaouhar Mnari,1,3,0.33,Tunez
+2006,27,Mohamed Kader,1,3,0.33,Togo
+2006,27,Craig Moore,1,4,0.25,Australia
+2006,27,Sulley Muntari,1,3,0.33,Ghana
+2006,27,Shunsuke Nakamura,1,3,0.33,Japon
+2006,27,Oliver Neuville,1,7,0.14,Alemania
+2006,27,Nuno Gomes,1,2,0.5,Portugal
+2006,27,Ji Sung Park,1,3,0.33,Corea del Sur
+2006,27,Pauleta,1,6,0.17,Portugal
+2006,27,Andrea Pirlo,1,7,0.14,Italia
+2006,27,Raul,1,4,0.25,Espana
+2006,27,Serhiy Rebrov,1,4,0.25,Ucrania
+2006,27,Franck Ribery,1,7,0.14,Francia
+2006,27,Arjen Robben,1,3,0.33,Paises Bajos
+2006,27,Cristiano Ronaldo,1,6,0.17,Portugal
+2006,27,Andriy Rusol,1,4,0.25,Ucrania
+2006,27,Javier Saviola,1,3,0.33,Argentina
+2006,27,Philippe Senderos,1,3,0.33,Suiza
+2006,27,Simao,1,7,0.14,Portugal
+2006,27,Darijo Srna,1,3,0.33,Croacia
+2006,27,Keiji Tamada,1,2,0.5,Japon
+2006,27,Carlos Tevez,1,4,0.25,Argentina
+2006,27,Francesco Totti,1,7,0.14,Italia
+2006,27,Ruud Van Nistelrooij,1,3,0.33,Paises Bajos
+2006,27,Robin Van Persie,1,4,0.25,Paises Bajos
+2006,27,Gianluca Zambrotta,1,6,0.17,Italia
+2006,27,Ze Roberto,1,5,0.2,Brasil
+2006,27,Nikola Zigic,1,2,0.5,Serbia y Montenegro
+2006,27,Zinha,1,4,0.25,Mexico

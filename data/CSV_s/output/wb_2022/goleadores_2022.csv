@@ -1,0 +1,118 @@
+anio,posicion,jugador,goles,partidos,promedio_gol,seleccion
+2022,1,Kylian Mbappe,8,7,1.14,Francia
+2022,2,Lionel Messi,7,7,1.0,Argentina
+2022,3,Julian Alvarez,4,7,0.57,Argentina
+2022,3,Olivier Giroud,4,6,0.67,Francia
+2022,5,Cody Gakpo,3,5,0.6,Paises Bajos
+2022,5,Alvaro Morata,3,4,0.75,Espana
+2022,5,Gonçalo Ramos,3,4,0.75,Portugal
+2022,5,Marcus Rashford,3,5,0.6,Inglaterra
+2022,5,Richarlison,3,4,0.75,Brasil
+2022,5,Bukayo Saka,3,4,0.75,Inglaterra
+2022,5,Enner Valencia,3,3,1.0,Ecuador
+2022,12,Vincent Aboubakar,2,3,0.67,Camerun
+2022,12,Salem Al-Dawsari,2,3,0.67,Arabia Saudita
+2022,12,Gue-sung Cho,2,4,0.5,Corea del Sur
+2022,12,Giorgian De Arrascaeta,2,2,1.0,Uruguay
+2022,12,Ritsu Doan,2,4,0.5,Japon
+2022,12,Breel Embolo,2,4,0.5,Suiza
+2022,12,Youssef En-Nesyri,2,7,0.29,Marruecos
+2022,12,Bruno Fernandes,2,4,0.5,Portugal
+2022,12,Niclas Fullkrug,2,3,0.67,Alemania
+2022,12,Kai Havertz,2,2,1.0,Alemania
+2022,12,Harry Kane,2,5,0.4,Inglaterra
+2022,12,Andrej Kramarić,2,7,0.29,Croacia
+2022,12,Mohammed Kudus,2,3,0.67,Ghana
+2022,12,Rafael Leão,2,5,0.4,Portugal
+2022,12,Robert Lewandowski,2,4,0.5,Polonia
+2022,12,Aleksandar Mitrović,2,3,0.67,Serbia
+2022,12,Neymar Jr.,2,3,0.67,Brasil
+2022,12,Mehdi Taremi,2,3,0.67,Iran
+2022,12,Ferran Torres,2,4,0.5,Espana
+2022,12,Wout Weghorst,2,4,0.5,Paises Bajos
+2022,32,Zakaria Aboukhlal,1,4,0.25,Marruecos
+2022,32,Manuel Akanji,1,4,0.25,Suiza
+2022,32,Saleh Al-Shehri,1,3,0.33,Arabia Saudita
+2022,32,Takuma Asano,1,4,0.25,Japon
+2022,32,Marco Asensio,1,4,0.25,Espana
+2022,32,Andre Ayew,1,3,0.33,Ghana
+2022,32,Gareth Bale,1,3,0.33,Gales
+2022,32,Michy Batshuayi,1,2,0.5,Belgica
+2022,32,Jude Bellingham,1,5,0.2,Inglaterra
+2022,32,Daley Blind,1,5,0.2,Paises Bajos
+2022,32,Osman Bukari,1,2,0.5,Ghana
+2022,32,Moises Caicedo,1,3,0.33,Ecuador
+2022,32,Casemiro,1,4,0.25,Brasil
+2022,32,Jean-Charles Castelletto,1,2,0.5,Camerun
+2022,32,Luis Chavez,1,3,0.33,Mexico
+2022,32,Rouzbeh Cheshmi,1,2,0.5,Iran
+2022,32,Eric Maxim Choupo Moting,1,3,0.33,Camerun
+2022,32,Andreas Christensen,1,3,0.33,Dinamarca
+2022,32,Achraf Dari,1,3,0.33,Marruecos
+2022,32,Alphonso Davies,1,3,0.33,Canada
+2022,32,Frenkie de Jong,1,5,0.2,Paises Bajos
+2022,32,Memphis Depay,1,5,0.2,Paises Bajos
+2022,32,Angel Di Maria,1,5,0.2,Argentina
+2022,32,Boulaye Dia,1,4,0.25,Senegal
+2022,32,Famara Diehiou,1,2,0.5,Senegal
+2022,32,Bamba Dieng,1,4,0.25,Senegal
+2022,32,Mitchell Duke,1,4,0.25,Australia
+2022,32,Denzel Dumfries,1,5,0.2,Paises Bajos
+2022,32,João Felix,1,4,0.25,Portugal
+2022,32,Enzo Fernandez,1,7,0.14,Argentina
+2022,32,Phil Foden,1,4,0.25,Inglaterra
+2022,32,Remo Freuler,1,4,0.25,Suiza
+2022,32,Keysher Fuller,1,3,0.33,Costa Rica
+2022,32,Gavi,1,4,0.25,Espana
+2022,32,Serge Gnabry,1,3,0.33,Alemania
+2022,32,Craig Goodwin,1,4,0.25,Australia
+2022,32,Jack Grealish,1,5,0.2,Inglaterra
+2022,32,Raphaël Guerreiro,1,4,0.25,Portugal
+2022,32,Ilkay Gundogan,1,3,0.33,Alemania
+2022,32,Josko Gvardiol,1,7,0.14,Croacia
+2022,32,Jordan Henderson,1,4,0.25,Inglaterra
+2022,32,Theo Hernandez,1,6,0.17,Francia
+2022,32,Ricardo Horta,1,3,0.33,Portugal
+2022,32,Hee-chan Hwang,1,2,0.5,Corea del Sur
+2022,32,Wahbi Khazri,1,2,0.5,Tunez
+2022,32,Young-Gwon Kim,1,4,0.25,Corea del Sur
+2022,32,Davy Klaassen,1,4,0.25,Paises Bajos
+2022,32,Randal Kolo Muani,1,3,0.33,Francia
+2022,32,Kalidou Koulibaly,1,4,0.25,Senegal
+2022,32,Mathew Leckie,1,4,0.25,Australia
+2022,32,Marko Livaja,1,6,0.17,Croacia
+2022,32,Alexis Mac Allister,1,6,0.17,Argentina
+2022,32,Daizen Maeda,1,3,0.33,Japon
+2022,32,Lovro Majer,1,7,0.14,Croacia
+2022,32,Henry Martin,1,2,0.5,Mexico
+2022,32,Sergej Milinković-Savić,1,3,0.33,Serbia
+2022,32,Nahuel Molina,1,7,0.14,Argentina
+2022,32,Mohammed Muntari,1,3,0.33,Catar
+2022,32,Dani Olmo,1,4,0.25,Espana
+2022,32,Mislav Orsic,1,6,0.17,Croacia
+2022,32,Seung-ho Paik,1,1,1.0,Corea del Sur
+2022,32,Lucas Paqueta,1,4,0.25,Brasil
+2022,32,Strahinja Pavlovic,1,3,0.33,Serbia
+2022,32,Pepe,1,4,0.25,Portugal
+2022,32,Ivan Perisic,1,7,0.14,Croacia
+2022,32,Bruno Petkovic,1,6,0.17,Croacia
+2022,32,Christian Pulisic,1,4,0.25,Estados Unidos
+2022,32,Adrien Rabiot,1,6,0.17,Francia
+2022,32,Ramin Rezaeian,1,2,0.5,Iran
+2022,32,Cristiano Ronaldo,1,5,0.2,Portugal
+2022,32,Romain Saïss,1,6,0.17,Marruecos
+2022,32,Mohammed Salisu,1,3,0.33,Ghana
+2022,32,Ismaïla Sarr,1,4,0.25,Senegal
+2022,32,Xherdan Shaqiri,1,3,0.33,Suiza
+2022,32,Carlos Soler,1,2,0.5,Espana
+2022,32,Raheem Sterling,1,3,0.33,Inglaterra
+2022,32,Ao Tanaka,1,3,0.33,Japon
+2022,32,Aurelien Tchouameni,1,7,0.14,Francia
+2022,32,Yeltsin Tejeda,1,3,0.33,Costa Rica
+2022,32,Juan Pablo Vargas,1,1,1.0,Costa Rica
+2022,32,Vinicius Junior,1,4,0.25,Brasil
+2022,32,Dusan Vlahovic,1,2,0.5,Serbia
+2022,32,Tim Weah,1,4,0.25,Estados Unidos
+2022,32,Haji Wright,1,4,0.25,Estados Unidos
+2022,32,Piotr Zieliński,1,4,0.25,Polonia
+2022,32,Hakim Ziyech,1,7,0.14,Marruecos

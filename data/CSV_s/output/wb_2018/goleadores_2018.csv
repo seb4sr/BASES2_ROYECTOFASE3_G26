@@ -1,0 +1,111 @@
+anio,posicion,jugador,goles,partidos,promedio_gol,seleccion
+2018,1,Harry Kane,6,6,1.0,Inglaterra
+2018,2,Denis Cheryshev,4,5,0.8,Rusia
+2018,2,Antoine Griezmann,4,7,0.57,Francia
+2018,2,Romelu Lukaku,4,6,0.67,Belgica
+2018,2,Kylian Mbappe,4,7,0.57,Francia
+2018,2,Cristiano Ronaldo,4,4,1.0,Portugal
+2018,7,Edinson Cavani,3,4,0.75,Uruguay
+2018,7,Diego Costa,3,4,0.75,Espana
+2018,7,Artem Dzyuba,3,5,0.6,Rusia
+2018,7,Eden Hazard,3,6,0.5,Belgica
+2018,7,Mario Mandzukic,3,6,0.5,Croacia
+2018,7,Yerry Mina,3,3,1.0,Colombia
+2018,7,Ivan Perisic,3,7,0.43,Croacia
+2018,14,Sergio Aguero,2,4,0.5,Argentina
+2018,14,Andreas Granqvist,2,5,0.4,Suecia
+2018,14,Takashi Inui,2,4,0.5,Japon
+2018,14,Mile Jedinak,2,3,0.67,Australia
+2018,14,Wahbi Khazri,2,3,0.67,Tunez
+2018,14,Luka Modric,2,7,0.29,Croacia
+2018,14,Ahmed Musa,2,3,0.67,Nigeria
+2018,14,Neymar Jr.,2,5,0.4,Brasil
+2018,14,Philippe Coutinho,2,5,0.4,Brasil
+2018,14,Mohamed Salah,2,2,1.0,Egipto
+2018,14,Heung-Min Son,2,3,0.67,Corea del Sur
+2018,14,John Stones,2,7,0.29,Inglaterra
+2018,14,Luis Suarez,2,5,0.4,Uruguay
+2018,27,Salem Al-Dawsari,1,3,0.33,Arabia Saudita
+2018,27,Salman Al-Faraj,1,3,0.33,Arabia Saudita
+2018,27,Dele Alli,1,5,0.2,Inglaterra
+2018,27,Karim Ansarifard,1,3,0.33,Iran
+2018,27,Iago Aspas,1,3,0.33,Espana
+2018,27,Ludwig Augustinsson,1,5,0.2,Suecia
+2018,27,Milan Badelj,1,3,0.33,Croacia
+2018,27,Felipe Baloy,1,1,1.0,Panama
+2018,27,Michy Batshuayi,1,3,0.33,Belgica
+2018,27,Jan Bednarek,1,3,0.33,Polonia
+2018,27,Fakhreddine Ben Youssef,1,3,0.33,Tunez
+2018,27,Khalid Boutaïb,1,2,0.5,Marruecos
+2018,27,Dylan Bronn,1,2,0.5,Tunez
+2018,27,Andre Carrillo,1,3,0.33,Peru
+2018,27,Nacer Chadli,1,6,0.17,Belgica
+2018,27,Juan Guillermo Cuadrado,1,4,0.25,Colombia
+2018,27,Kevin De Bruyne,1,6,0.17,Belgica
+2018,27,Angel Di Maria,1,3,0.33,Argentina
+2018,27,Josip Drmic,1,3,0.33,Suiza
+2018,27,Blerim Dzemaili,1,4,0.25,Suiza
+2018,27,Youssef En-Nesyri,1,1,1.0,Marruecos
+2018,27,Christian Eriksen,1,4,0.25,Dinamarca
+2018,27,Radamel Falcao,1,4,0.25,Colombia
+2018,27,Marouane Fellaini,1,5,0.2,Belgica
+2018,27,Mario Fernandes,1,5,0.2,Rusia
+2018,27,Alfred Finnbogason,1,3,0.33,Islandia
+2018,27,Emil Forsberg,1,5,0.2,Suecia
+2018,27,Yury Gazinsky,1,4,0.25,Rusia
+2018,27,Jose Maria Gimenez,1,4,0.25,Uruguay
+2018,27,Aleksandr Golovin,1,4,0.25,Rusia
+2018,27,Paolo Guerrero,1,3,0.33,Peru
+2018,27,Genki Haraguchi,1,3,0.33,Japon
+2018,27,Javier Hernandez,1,4,0.25,Mexico
+2018,27,Keisuke Honda,1,3,0.33,Japon
+2018,27,Isco,1,4,0.25,Espana
+2018,27,Adnan Januzaj,1,1,1.0,Belgica
+2018,27,Mathias Jørgensen,1,3,0.33,Dinamarca
+2018,27,Shinji Kagawa,1,3,0.33,Japon
+2018,27,Young-Gwon Kim,1,3,0.33,Corea del Sur
+2018,27,Aleksandar Kolarov,1,3,0.33,Serbia
+2018,27,Andrej Kramarić,1,7,0.14,Croacia
+2018,27,Toni Kroos,1,3,0.33,Alemania
+2018,27,Grzegorz Krychowiak,1,3,0.33,Polonia
+2018,27,Jesse Lingard,1,6,0.17,Inglaterra
+2018,27,Hirving Lozano,1,4,0.25,Mexico
+2018,27,Harry Maguire,1,7,0.14,Inglaterra
+2018,27,Sadio Mane,1,3,0.33,Senegal
+2018,27,Gabriel Mercado,1,3,0.33,Argentina
+2018,27,Dries Mertens,1,6,0.17,Belgica
+2018,27,Lionel Messi,1,4,0.25,Argentina
+2018,27,Thomas Meunier,1,5,0.2,Belgica
+2018,27,Aleksandar Mitrović,1,3,0.33,Serbia
+2018,27,Victor Moses,1,3,0.33,Nigeria
+2018,27,Nacho,1,2,0.5,Espana
+2018,27,M'Baye Niang,1,3,0.33,Senegal
+2018,27,Yuya Osako,1,4,0.25,Japon
+2018,27,Paulinho,1,5,0.2,Brasil
+2018,27,Benjamin Pavard,1,6,0.17,Francia
+2018,27,Pepe,1,4,0.25,Portugal
+2018,27,Paul Pogba,1,6,0.17,Francia
+2018,27,Ricardo Quaresma,1,3,0.33,Portugal
+2018,27,Juan Quintero,1,4,0.25,Colombia
+2018,27,Ivan Rakitic,1,7,0.14,Croacia
+2018,27,Ante Rebic,1,6,0.17,Croacia
+2018,27,Renato Augusto,1,3,0.33,Brasil
+2018,27,Marco Reus,1,3,0.33,Alemania
+2018,27,Roberto Firmino,1,4,0.25,Brasil
+2018,27,Marcos Rojo,1,3,0.33,Argentina
+2018,27,Ferjani Sassi,1,3,0.33,Tunez
+2018,27,Xherdan Shaqiri,1,4,0.25,Suiza
+2018,27,Gylfi Sigurdsson,1,3,0.33,Islandia
+2018,27,Thiago Silva,1,5,0.2,Brasil
+2018,27,Ola Toivonen,1,5,0.2,Suecia
+2018,27,Kieran Trippier,1,6,0.17,Inglaterra
+2018,27,Samuel Umtiti,1,6,0.17,Francia
+2018,27,Raphael Varane,1,7,0.14,Francia
+2018,27,Carlos Vela,1,4,0.25,Mexico
+2018,27,Jan Vertonghen,1,6,0.17,Belgica
+2018,27,Domagoj Vida,1,6,0.17,Croacia
+2018,27,Moussa Wague,1,3,0.33,Senegal
+2018,27,Kendall Waston,1,1,1.0,Costa Rica
+2018,27,Granit Xhaka,1,4,0.25,Suiza
+2018,27,Yussuf Yurary Poulsen,1,3,0.33,Dinamarca
+2018,27,Steven Zuber,1,3,0.33,Suiza

@@ -1,0 +1,33 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+1962,1,30-May-1962,1ra Ronda,1,Uruguay,2,1,Colombia
+1962,2,30-May-1962,1ra Ronda,3,Brasil,2,0,Mexico
+1962,3,30-May-1962,1ra Ronda,2,Chile,3,1,Suiza
+1962,4,30-May-1962,1ra Ronda,4,Argentina,1,0,Bulgaria
+1962,5,31-May-1962,1ra Ronda,3,Checoslovaquia,1,0,Espana
+1962,6,31-May-1962,1ra Ronda,1,URSS,2,0,Yugoslavia
+1962,7,31-May-1962,1ra Ronda,4,Hungria,2,1,Inglaterra
+1962,8,31-May-1962,1ra Ronda,2,Alemania Occidental,0,0,Italia
+1962,9,02-Jun-1962,1ra Ronda,2,Chile,2,0,Italia
+1962,10,02-Jun-1962,1ra Ronda,3,Brasil,0,0,Checoslovaquia
+1962,11,02-Jun-1962,1ra Ronda,1,Yugoslavia,3,1,Uruguay
+1962,12,02-Jun-1962,1ra Ronda,4,Inglaterra,3,1,Argentina
+1962,13,03-Jun-1962,1ra Ronda,4,Hungria,6,1,Bulgaria
+1962,14,03-Jun-1962,1ra Ronda,1,URSS,4,4,Colombia
+1962,15,03-Jun-1962,1ra Ronda,3,Espana,1,0,Mexico
+1962,16,03-Jun-1962,1ra Ronda,2,Alemania Occidental,2,1,Suiza
+1962,17,06-Jun-1962,1ra Ronda,2,Alemania Occidental,2,0,Chile
+1962,18,06-Jun-1962,1ra Ronda,4,Hungria,0,0,Argentina
+1962,19,06-Jun-1962,1ra Ronda,1,URSS,2,1,Uruguay
+1962,20,06-Jun-1962,1ra Ronda,3,Brasil,2,1,Espana
+1962,21,07-Jun-1962,1ra Ronda,1,Yugoslavia,5,0,Colombia
+1962,22,07-Jun-1962,1ra Ronda,3,Mexico,3,1,Checoslovaquia
+1962,23,07-Jun-1962,1ra Ronda,2,Italia,3,0,Suiza
+1962,24,07-Jun-1962,1ra Ronda,4,Inglaterra,0,0,Bulgaria
+1962,25,10-Jun-1962,Cuartos,,Brasil,3,1,Inglaterra
+1962,26,10-Jun-1962,Cuartos,,Checoslovaquia,1,0,Hungria
+1962,27,10-Jun-1962,Cuartos,,Yugoslavia,1,0,Alemania Occidental
+1962,28,10-Jun-1962,Cuartos,,Chile,2,1,URSS
+1962,29,13-Jun-1962,Semis,,Yugoslavia,1,3,Checoslovaquia
+1962,30,13-Jun-1962,Semis,,Chile,2,4,Brasil
+1962,31,16-Jun-1962,3er Puesto,,Chile,1,0,Yugoslavia
+1962,32,17-Jun-1962,Final,,Brasil,3,1,Checoslovaquia

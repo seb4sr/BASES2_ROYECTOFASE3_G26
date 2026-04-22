@@ -1,0 +1,39 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+1978,1,01-Jun-1978,1ra Ronda,2,Alemania Occidental,0,0,Polonia
+1978,2,02-Jun-1978,1ra Ronda,2,Tunez,3,1,Mexico
+1978,3,02-Jun-1978,1ra Ronda,1,Italia,2,1,Francia
+1978,4,02-Jun-1978,1ra Ronda,1,Argentina,2,1,Hungria
+1978,5,03-Jun-1978,1ra Ronda,4,Paises Bajos,3,0,Iran
+1978,6,03-Jun-1978,1ra Ronda,3,Austria,2,1,Espana
+1978,7,03-Jun-1978,1ra Ronda,4,Peru,3,1,Escocia
+1978,8,03-Jun-1978,1ra Ronda,3,Suecia,1,1,Brasil
+1978,9,06-Jun-1978,1ra Ronda,2,Alemania Occidental,6,0,Mexico
+1978,10,06-Jun-1978,1ra Ronda,1,Argentina,2,1,Francia
+1978,11,06-Jun-1978,1ra Ronda,2,Polonia,1,0,Tunez
+1978,12,06-Jun-1978,1ra Ronda,1,Italia,3,1,Hungria
+1978,13,07-Jun-1978,1ra Ronda,4,Paises Bajos,0,0,Peru
+1978,14,07-Jun-1978,1ra Ronda,3,Brasil,0,0,Espana
+1978,15,07-Jun-1978,1ra Ronda,4,Escocia,1,1,Iran
+1978,16,07-Jun-1978,1ra Ronda,3,Austria,1,0,Suecia
+1978,17,10-Jun-1978,1ra Ronda,1,Italia,1,0,Argentina
+1978,18,10-Jun-1978,1ra Ronda,2,Alemania Occidental,0,0,Tunez
+1978,19,10-Jun-1978,1ra Ronda,1,Francia,3,1,Hungria
+1978,20,10-Jun-1978,1ra Ronda,2,Polonia,3,1,Mexico
+1978,21,11-Jun-1978,1ra Ronda,4,Peru,4,1,Iran
+1978,22,11-Jun-1978,1ra Ronda,3,Espana,1,0,Suecia
+1978,23,11-Jun-1978,1ra Ronda,4,Escocia,3,2,Paises Bajos
+1978,24,11-Jun-1978,1ra Ronda,3,Brasil,1,0,Austria
+1978,25,14-Jun-1978,2da Ronda,A,Paises Bajos,5,1,Austria
+1978,26,14-Jun-1978,2da Ronda,A,Alemania Occidental,0,0,Italia
+1978,27,14-Jun-1978,2da Ronda,B,Brasil,3,0,Peru
+1978,28,14-Jun-1978,2da Ronda,B,Argentina,2,0,Polonia
+1978,29,18-Jun-1978,2da Ronda,B,Argentina,0,0,Brasil
+1978,30,18-Jun-1978,2da Ronda,B,Polonia,1,0,Peru
+1978,31,18-Jun-1978,2da Ronda,A,Alemania Occidental,2,2,Paises Bajos
+1978,32,18-Jun-1978,2da Ronda,A,Italia,1,0,Austria
+1978,33,21-Jun-1978,2da Ronda,B,Argentina,6,0,Peru
+1978,34,21-Jun-1978,2da Ronda,A,Paises Bajos,2,1,Italia
+1978,35,21-Jun-1978,2da Ronda,B,Brasil,3,1,Polonia
+1978,36,21-Jun-1978,2da Ronda,A,Austria,3,2,Alemania Occidental
+1978,37,24-Jun-1978,3er Puesto,,Brasil,2,1,Italia
+1978,38,25-Jun-1978,Final,,Argentina,3,1,Paises Bajos

@@ -1,0 +1,65 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+2002,1,31-May-2002,1ra Ronda,A,Francia,0,1,Senegal
+2002,2,01-Jun-2002,1ra Ronda,E,Irlanda,1,1,Camerun
+2002,3,01-Jun-2002,1ra Ronda,A,Uruguay,1,2,Dinamarca
+2002,4,01-Jun-2002,1ra Ronda,E,Alemania,8,0,Arabia Saudita
+2002,5,02-Jun-2002,1ra Ronda,F,Inglaterra,1,1,Suecia
+2002,6,02-Jun-2002,1ra Ronda,B,Paraguay,2,2,Sudafrica
+2002,7,02-Jun-2002,1ra Ronda,F,Argentina,1,0,Nigeria
+2002,8,02-Jun-2002,1ra Ronda,B,Espana,3,1,Eslovenia
+2002,9,03-Jun-2002,1ra Ronda,G,Croacia,0,1,Mexico
+2002,10,03-Jun-2002,1ra Ronda,C,Brasil,2,1,Turquia
+2002,11,03-Jun-2002,1ra Ronda,G,Italia,2,0,Ecuador
+2002,12,04-Jun-2002,1ra Ronda,C,China,0,2,Costa Rica
+2002,13,04-Jun-2002,1ra Ronda,H,Japon,2,2,Belgica
+2002,14,04-Jun-2002,1ra Ronda,D,Corea del Sur,2,0,Polonia
+2002,15,05-Jun-2002,1ra Ronda,H,Rusia,2,0,Tunez
+2002,16,05-Jun-2002,1ra Ronda,D,Estados Unidos,3,2,Portugal
+2002,17,05-Jun-2002,1ra Ronda,E,Alemania,1,1,Irlanda
+2002,18,06-Jun-2002,1ra Ronda,A,Francia,0,0,Uruguay
+2002,19,06-Jun-2002,1ra Ronda,E,Camerun,1,0,Arabia Saudita
+2002,20,06-Jun-2002,1ra Ronda,A,Dinamarca,1,1,Senegal
+2002,21,07-Jun-2002,1ra Ronda,F,Suecia,2,1,Nigeria
+2002,22,07-Jun-2002,1ra Ronda,B,Espana,3,1,Paraguay
+2002,23,07-Jun-2002,1ra Ronda,F,Argentina,0,1,Inglaterra
+2002,24,08-Jun-2002,1ra Ronda,B,Sudafrica,1,0,Eslovenia
+2002,25,08-Jun-2002,1ra Ronda,G,Italia,1,2,Croacia
+2002,26,08-Jun-2002,1ra Ronda,C,Brasil,4,0,China
+2002,27,09-Jun-2002,1ra Ronda,G,Mexico,2,1,Ecuador
+2002,28,09-Jun-2002,1ra Ronda,C,Costa Rica,1,1,Turquia
+2002,29,09-Jun-2002,1ra Ronda,H,Japon,1,0,Rusia
+2002,30,10-Jun-2002,1ra Ronda,D,Corea del Sur,1,1,Estados Unidos
+2002,31,10-Jun-2002,1ra Ronda,H,Tunez,1,1,Belgica
+2002,32,10-Jun-2002,1ra Ronda,D,Portugal,4,0,Polonia
+2002,33,11-Jun-2002,1ra Ronda,A,Dinamarca,2,0,Francia
+2002,34,11-Jun-2002,1ra Ronda,A,Senegal,3,3,Uruguay
+2002,35,11-Jun-2002,1ra Ronda,E,Camerun,0,2,Alemania
+2002,36,11-Jun-2002,1ra Ronda,E,Arabia Saudita,0,3,Irlanda
+2002,37,12-Jun-2002,1ra Ronda,F,Suecia,1,1,Argentina
+2002,38,12-Jun-2002,1ra Ronda,F,Nigeria,0,0,Inglaterra
+2002,39,12-Jun-2002,1ra Ronda,B,Sudafrica,2,3,Espana
+2002,40,12-Jun-2002,1ra Ronda,B,Eslovenia,1,3,Paraguay
+2002,41,13-Jun-2002,1ra Ronda,C,Costa Rica,2,5,Brasil
+2002,42,13-Jun-2002,1ra Ronda,C,Turquia,3,0,China
+2002,43,13-Jun-2002,1ra Ronda,G,Mexico,1,1,Italia
+2002,44,13-Jun-2002,1ra Ronda,G,Ecuador,1,0,Croacia
+2002,45,14-Jun-2002,1ra Ronda,H,Tunez,0,2,Japon
+2002,46,14-Jun-2002,1ra Ronda,H,Belgica,3,2,Rusia
+2002,47,14-Jun-2002,1ra Ronda,D,Portugal,0,1,Corea del Sur
+2002,48,14-Jun-2002,1ra Ronda,D,Polonia,3,1,Estados Unidos
+2002,49,15-Jun-2002,Octavos,,Alemania,1,0,Paraguay
+2002,50,15-Jun-2002,Octavos,,Dinamarca,0,3,Inglaterra
+2002,51,16-Jun-2002,Octavos,,Suecia,1,2,Senegal
+2002,52,16-Jun-2002,Octavos,,Espana,1,1,Irlanda
+2002,53,17-Jun-2002,Octavos,,Mexico,0,2,Estados Unidos
+2002,54,17-Jun-2002,Octavos,,Brasil,2,0,Belgica
+2002,55,18-Jun-2002,Octavos,,Japon,0,1,Turquia
+2002,56,18-Jun-2002,Octavos,,Corea del Sur,2,1,Italia
+2002,57,21-Jun-2002,Cuartos,,Inglaterra,1,2,Brasil
+2002,58,21-Jun-2002,Cuartos,,Alemania,1,0,Estados Unidos
+2002,59,22-Jun-2002,Cuartos,,Espana,0,0,Corea del Sur
+2002,60,22-Jun-2002,Cuartos,,Senegal,0,1,Turquia
+2002,61,25-Jun-2002,Semis,,Alemania,1,0,Corea del Sur
+2002,62,26-Jun-2002,Semis,,Brasil,1,0,Turquia
+2002,63,29-Jun-2002,3er Puesto,,Corea del Sur,2,3,Turquia
+2002,64,30-Jun-2002,Final,,Alemania,0,2,Brasil

@@ -1,0 +1,33 @@
+anio,posicion,seleccion,etapa,pts,pj,pg,pe,pp,gf,gc,dif
+2014,1,Alemania,Final,19,7,6,1,0,18,4,14
+2014,2,Argentina,Final,16,7,5,1,1,8,4,4
+2014,3,Paises Bajos,Partido 3er Puesto,17,7,5,2,0,15,4,11
+2014,4,Brasil,Partido 3er Puesto,11,7,3,2,2,11,14,-3
+2014,5,Colombia,Cuartos de Final,12,5,4,0,1,12,4,8
+2014,6,Belgica,Cuartos de Final,12,5,4,0,1,6,3,3
+2014,7,Francia,Cuartos de Final,10,5,3,1,1,10,3,7
+2014,8,Costa Rica,Cuartos de Final,9,5,2,3,0,5,2,3
+2014,9,Chile,Octavos de Final,7,4,2,1,1,6,4,2
+2014,10,Mexico,Octavos de Final,7,4,2,1,1,5,3,2
+2014,11,Suiza,Octavos de Final,6,4,2,0,2,7,7,0
+2014,12,Uruguay,Octavos de Final,6,4,2,0,2,4,6,-2
+2014,13,Grecia,Octavos de Final,5,4,1,2,1,3,5,-2
+2014,14,Argelia,Octavos de Final,4,4,1,1,2,7,7,0
+2014,15,Estados Unidos,Octavos de Final,4,4,1,1,2,5,6,-1
+2014,16,Nigeria,Octavos de Final,4,4,1,1,2,3,5,-2
+2014,17,Ecuador,Grupos 1ra Ronda,4,3,1,1,1,3,3,0
+2014,18,Portugal,Grupos 1ra Ronda,4,3,1,1,1,4,7,-3
+2014,19,Croacia,Grupos 1ra Ronda,3,3,1,0,2,6,6,0
+2014,20,Bosnia-Herzegovina,Grupos 1ra Ronda,3,3,1,0,2,4,4,0
+2014,21,Costa de Marfil,Grupos 1ra Ronda,3,3,1,0,2,4,5,-1
+2014,22,Italia,Grupos 1ra Ronda,3,3,1,0,2,2,3,-1
+2014,23,Espana,Grupos 1ra Ronda,3,3,1,0,2,4,7,-3
+2014,24,Rusia,Grupos 1ra Ronda,2,3,0,2,1,2,3,-1
+2014,25,Ghana,Grupos 1ra Ronda,1,3,0,1,2,4,6,-2
+2014,26,Inglaterra,Grupos 1ra Ronda,1,3,0,1,2,2,4,-2
+2014,27,Corea del Sur,Grupos 1ra Ronda,1,3,0,1,2,3,6,-3
+2014,28,Iran,Grupos 1ra Ronda,1,3,0,1,2,1,4,-3
+2014,29,Japon,Grupos 1ra Ronda,1,3,0,1,2,2,6,-4
+2014,30,Australia,Grupos 1ra Ronda,0,3,0,0,3,3,9,-6
+2014,31,Honduras,Grupos 1ra Ronda,0,3,0,0,3,1,8,-7
+2014,32,Camerun,Grupos 1ra Ronda,0,3,0,0,3,1,9,-8

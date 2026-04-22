@@ -1,0 +1,108 @@
+anio,posicion,jugador,goles,partidos,promedio_gol,seleccion
+1998,1,Davor Suker,6,7,0.86,Croacia
+1998,2,Gabriel Batistuta,5,5,1.0,Argentina
+1998,2,Christian Vieri,5,5,1.0,Italia
+1998,4,Luis Hernandez,4,4,1.0,Mexico
+1998,4,Ronaldo,4,7,0.57,Brasil
+1998,4,Marcelo Salas,4,4,1.0,Chile
+1998,7,Bebeto,3,7,0.43,Brasil
+1998,7,Dennis Bergkamp,3,7,0.43,Paises Bajos
+1998,7,Oliver Bierhoff,3,5,0.6,Alemania
+1998,7,Cesar Sampaio,3,6,0.5,Brasil
+1998,7,Thierry Henry,3,6,0.5,Francia
+1998,7,Juergen Klinsmann,3,5,0.6,Alemania
+1998,7,Rivaldo,3,7,0.43,Brasil
+1998,14,Roberto Baggio,2,4,0.5,Italia
+1998,14,Shaun Bartlett,2,3,0.67,Sudafrica
+1998,14,Salaheddine Bassir,2,3,0.67,Marruecos
+1998,14,Phillip Cocu,2,7,0.29,Paises Bajos
+1998,14,Ronald De Boer,2,6,0.33,Paises Bajos
+1998,14,Abdeljalil Hadda,2,3,0.67,Marruecos
+1998,14,Fernando Hierro,2,3,0.67,Espana
+1998,14,Patrick Kluivert,2,4,0.5,Paises Bajos
+1998,14,Slobodan Komljenovic,2,3,0.67,RF de Yugoslavia
+1998,14,Brian Laudrup,2,5,0.4,Dinamarca
+1998,14,Viorel Moldovan,2,4,0.5,Rumania
+1998,14,Fernando Morientes,2,2,1.0,Espana
+1998,14,Ariel Ortega,2,5,0.4,Argentina
+1998,14,Michael Owen,2,4,0.5,Inglaterra
+1998,14,Ricardo Pelaez Linares,2,3,0.67,Mexico
+1998,14,Emmanuel Petit,2,6,0.33,Francia
+1998,14,Robert Prosinecki,2,5,0.4,Croacia
+1998,14,Alan Shearer,2,4,0.5,Inglaterra
+1998,14,Lilian Thuram,2,6,0.33,Francia
+1998,14,Theodore Whitmore,2,3,0.67,Jamaica
+1998,14,Marc Wilmots,2,3,0.67,Belgica
+1998,14,Zinedine Zidane,2,5,0.4,Francia
+1998,36,Mutiu Adepoju,1,3,0.33,Nigeria
+1998,36,Sami Al Jaber,1,3,0.33,Arabia Saudita
+1998,36,Youssef Al Tunayan,1,2,0.5,Arabia Saudita
+1998,36,Darren Anderton,1,4,0.25,Inglaterra
+1998,36,Celso Ayala,1,4,0.25,Paraguay
+1998,36,Tijani Babangida,1,4,0.25,Nigeria
+1998,36,David Beckham,1,3,0.33,Inglaterra
+1998,36,Miguel Benitez,1,4,0.25,Paraguay
+1998,36,Laurent Blanc,1,5,0.2,Francia
+1998,36,Cuauhtemoc Blanco,1,4,0.25,Mexico
+1998,36,Craig Burley,1,3,0.33,Escocia
+1998,36,Jose Cardozo,1,3,0.33,Paraguay
+1998,36,John Collins,1,3,0.33,Escocia
+1998,36,Edgar Davids,1,6,0.17,Paises Bajos
+1998,36,Luigi Di Biagio,1,5,0.2,Italia
+1998,36,Youri Djorkaeff,1,7,0.14,Francia
+1998,36,Christophe Dugarry,1,3,0.33,Francia
+1998,36,Robert Earle,1,3,0.33,Jamaica
+1998,36,Dan Eggen,1,4,0.25,Noruega
+1998,36,Mustafa El Hadji,1,3,0.33,Marruecos
+1998,36,Hamid Estili,1,3,0.33,Iran
+1998,36,Havard Flo,1,4,0.25,Noruega
+1998,36,Tore Andre Flo,1,4,0.25,Noruega
+1998,36,Alberto Garcia Aspe,1,4,0.25,Mexico
+1998,36,Seok Ju Ha,1,2,0.5,Corea del Sur
+1998,36,Thomas Helveg,1,5,0.2,Dinamarca
+1998,36,Andreas Herzog,1,3,0.33,Austria
+1998,36,Victor Ikpeba,1,3,0.33,Nigeria
+1998,36,Adrian Ilie,1,4,0.25,Rumania
+1998,36,Robert Jarni,1,7,0.14,Croacia
+1998,36,Martin Jorgensen,1,5,0.2,Dinamarca
+1998,36,Kiko,1,3,0.33,Espana
+1998,36,Emil Kostadinov,1,3,0.33,Bulgaria
+1998,36,Michael Laudrup,1,5,0.2,Dinamarca
+1998,36,Bixente Lizarazu,1,6,0.17,Francia
+1998,36,Claudio Lopez,1,5,0.2,Argentina
+1998,36,Luis Enrique,1,3,0.33,Espana
+1998,36,Mehdi Mahdavikia,1,3,0.33,Iran
+1998,36,Patrick Mboma,1,3,0.33,Camerun
+1998,36,Brian Mcbride,1,2,0.5,Estados Unidos
+1998,36,Benni Mccarthy,1,3,0.33,Sudafrica
+1998,36,Sinisa Mihajlovic,1,4,0.25,RF de Yugoslavia
+1998,36,Predrag Mijatovic,1,4,0.25,RF de Yugoslavia
+1998,36,Andreas Moeller,1,3,0.33,Alemania
+1998,36,Peter Moller,1,2,0.5,Dinamarca
+1998,36,Masashi Nakayama,1,3,0.33,Japon
+1998,36,Allan Nielsen,1,5,0.2,Dinamarca
+1998,36,Luc Nilis,1,3,0.33,Belgica
+1998,36,Pierre Njanka,1,3,0.33,Camerun
+1998,36,Sunday Oliseh,1,4,0.25,Nigeria
+1998,36,Wilson Oruma,1,1,1.0,Nigeria
+1998,36,Marc Overmars,1,6,0.17,Paises Bajos
+1998,36,Dan Petrescu,1,4,0.25,Rumania
+1998,36,Mauricio Pineda,1,3,0.33,Argentina
+1998,36,Toni Polster,1,3,0.33,Austria
+1998,36,Leider Preciado,1,3,0.33,Colombia
+1998,36,Raul,1,3,0.33,Espana
+1998,36,Kjetil Rekdal,1,4,0.25,Noruega
+1998,36,Marc Rieper,1,5,0.2,Dinamarca
+1998,36,Ebbe Sand,1,5,0.2,Dinamarca
+1998,36,Paul Scholes,1,4,0.25,Inglaterra
+1998,36,Jose Sierra,1,4,0.25,Chile
+1998,36,Skander Souayah,1,3,0.33,Tunez
+1998,36,Mario Stanic,1,7,0.14,Croacia
+1998,36,Dragan Stojkovic,1,4,0.25,RF de Yugoslavia
+1998,36,David Trezeguet,1,6,0.17,Francia
+1998,36,Pierre Van Hooijdonk,1,3,0.33,Paises Bajos
+1998,36,Ivica Vastic,1,3,0.33,Austria
+1998,36,Goran Vlaovic,1,7,0.14,Croacia
+1998,36,Sang Chul Yoo,1,3,0.33,Corea del Sur
+1998,36,Javier Zanetti,1,5,0.2,Argentina
+1998,36,Boudewijn Zenden,1,4,0.25,Paises Bajos

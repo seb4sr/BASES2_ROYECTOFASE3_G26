@@ -1,0 +1,100 @@
+anio,posicion,jugador,goles,partidos,promedio_gol,seleccion
+1982,1,Paolo Rossi,6,7,0.86,Italia
+1982,2,Karl-Heinz Rummenigge,5,7,0.71,Alemania Occidental
+1982,3,Zbigniew Boniek,4,6,0.67,Polonia
+1982,3,Zico,4,5,0.8,Brasil
+1982,5,Gerry Armstrong,3,5,0.6,Irlanda del Norte
+1982,5,Falcao,3,5,0.6,Brasil
+1982,5,Alain Giresse,3,6,0.5,Francia
+1982,5,Laszlo Kiss,3,3,1.0,Hungria
+1982,9,Salah Assad,2,3,0.67,Argelia
+1982,9,Daniel Bertoni,2,5,0.4,Argentina
+1982,9,Eder,2,5,0.4,Brasil
+1982,9,Laszlo Fazekas,2,3,0.67,Hungria
+1982,9,Klaus Fischer,2,6,0.33,Alemania Occidental
+1982,9,Trevor Francis,2,5,0.4,Inglaterra
+1982,9,Bernard Genghini,2,5,0.4,Francia
+1982,9,Billy Hamilton,2,5,0.4,Irlanda del Norte
+1982,9,Pierre Littbarski,2,7,0.29,Alemania Occidental
+1982,9,Diego Maradona,2,5,0.4,Argentina
+1982,9,Tibor Nyilasi,2,3,0.67,Hungria
+1982,9,Antonin Panenka,2,2,1.0,Checoslovaquia
+1982,9,Daniel Passarella,2,5,0.4,Argentina
+1982,9,Michel Platini,2,5,0.4,Francia
+1982,9,Gabor Poloskei,2,3,0.67,Hungria
+1982,9,Bryan Robson,2,4,0.5,Inglaterra
+1982,9,Dominique Rocheteau,2,4,0.5,Francia
+1982,9,Walter Schachner,2,5,0.4,Austria
+1982,9,Serginho,2,5,0.4,Brasil
+1982,9,Didier Six,2,7,0.29,Francia
+1982,9,Socrates,2,5,0.4,Brasil
+1982,9,Marco Tardelli,2,7,0.29,Italia
+1982,9,John Wark,2,3,0.67,Escocia
+1982,32,Abdulaziz Al Balushi,1,3,0.33,Kuwait
+1982,32,Faisal Al Dakhil,1,3,0.33,Kuwait
+1982,32,Alessandro Altobelli,1,3,0.33,Italia
+1982,32,Steve Archibald,1,3,0.33,Escocia
+1982,32,Osvaldo Ardiles,1,5,0.2,Argentina
+1982,32,Andrei Bal,1,4,0.25,URSS
+1982,32,Sergei Baltacha,1,5,0.2,URSS
+1982,32,Lakhdar Belloumi,1,2,0.5,Argelia
+1982,32,Tedj Bensaoula,1,3,0.33,Argelia
+1982,32,Oleg Blokhin,1,5,0.2,URSS
+1982,32,Maxime Bossis,1,6,0.17,Francia
+1982,32,Paul Breitner,1,7,0.14,Alemania Occidental
+1982,32,Andrzej Buncol,1,7,0.14,Polonia
+1982,32,Antonio Cabrini,1,7,0.14,Italia
+1982,32,Aleksandr Chivadze,1,5,0.2,URSS
+1982,32,Wlodzimierz Ciolek,1,4,0.25,Polonia
+1982,32,Ludo Coeck,1,5,0.2,Belgica
+1982,32,Bruno Conti,1,7,0.14,Italia
+1982,32,Alain Couriol,1,3,0.33,Francia
+1982,32,Alex Czerniatynski,1,5,0.2,Belgica
+1982,32,Kenny Dalglish,1,2,0.5,Escocia
+1982,32,Ramon Diaz,1,4,0.25,Argentina
+1982,32,Ruben Diaz,1,3,0.33,Peru
+1982,32,Yuri Gavrilov,1,5,0.2,URSS
+1982,32,Rene Girard,1,5,0.2,Francia
+1982,32,Francesco Graziani,1,7,0.14,Italia
+1982,32,Ivan Gudelj,1,3,0.33,Yugoslavia
+1982,32,Reinhold Hintermaier,1,5,0.2,Austria
+1982,32,Horst Hrubesch,1,5,0.2,Alemania Occidental
+1982,32,Joe Jordan,1,1,1.0,Escocia
+1982,32,Juanito,1,4,0.25,Espana
+1982,32,Junior,1,5,0.2,Brasil
+1982,32,Hans Krankl,1,4,0.25,Austria
+1982,32,Janusz Kupcewicz,1,5,0.2,Polonia
+1982,32,Guillermo La Rosa,1,3,0.33,Peru
+1982,32,Eduardo Laing,1,2,0.5,Honduras
+1982,32,Grzegorz Lato,1,7,0.14,Polonia
+1982,32,Juan Letelier,1,2,0.5,Chile
+1982,32,Lopez Ufarte,1,4,0.25,Espana
+1982,32,Rabah Madjer,1,3,0.33,Argelia
+1982,32,Stefan Majewski,1,7,0.14,Polonia
+1982,32,Paul Mariner,1,5,0.2,Inglaterra
+1982,32,Gregoire Mbida,1,3,0.33,Camerun
+1982,32,Gustavo Moscoso,1,3,0.33,Chile
+1982,32,David Narey,1,3,0.33,Escocia
+1982,32,Miguel Neira,1,3,0.33,Chile
+1982,32,Khoren Oganesian,1,3,0.33,URSS
+1982,32,Oscar,1,5,0.2,Brasil
+1982,32,Vladimir Petrovic,1,3,0.33,Yugoslavia
+1982,32,Bruno Pezzey,1,5,0.2,Austria
+1982,32,Luis Ramirez,1,3,0.33,El Salvador
+1982,32,Uwe Reinders,1,3,0.33,Alemania Occidental
+1982,32,John Robertson,1,3,0.33,Escocia
+1982,32,Enrique Saura,1,4,0.25,Espana
+1982,32,Ramaz Shengelia,1,5,0.2,URSS
+1982,32,Wlodimierz Smolarek,1,6,0.17,Polonia
+1982,32,Gerard Soler,1,6,0.17,Francia
+1982,32,Graeme Souness,1,3,0.33,Escocia
+1982,32,Steve Sumner,1,3,0.33,Nueva Zelanda
+1982,32,Andrzej Szarmach,1,2,0.5,Polonia
+1982,32,Lazar Szentes,1,2,0.5,Hungria
+1982,32,Jozsef Toth,1,2,0.5,Hungria
+1982,32,Marius Tresor,1,7,0.14,Francia
+1982,32,Erwin Vandenbergh,1,5,0.2,Belgica
+1982,32,Jozsef Varga,1,2,0.5,Hungria
+1982,32,Steve Wooddin,1,3,0.33,Nueva Zelanda
+1982,32,Jesus Zamora,1,4,0.25,Espana
+1982,32,Hector Zelaya,1,3,0.33,Honduras

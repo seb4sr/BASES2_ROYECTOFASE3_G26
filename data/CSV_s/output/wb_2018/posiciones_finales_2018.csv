@@ -1,0 +1,33 @@
+anio,posicion,seleccion,etapa,pts,pj,pg,pe,pp,gf,gc,dif
+2018,1,Francia,Final,19,7,6,1,0,14,6,8
+2018,2,Croacia,Final,14,7,4,2,1,14,9,5
+2018,3,Belgica,Partido 3er Puesto,18,7,6,0,1,16,6,10
+2018,4,Inglaterra,Partido 3er Puesto,10,7,3,1,3,12,8,4
+2018,5,Uruguay,Cuartos de Final,12,5,4,0,1,7,3,4
+2018,6,Brasil,Cuartos de Final,10,5,3,1,1,8,3,5
+2018,7,Suecia,Cuartos de Final,9,5,3,0,2,6,4,2
+2018,8,Rusia,Cuartos de Final,8,5,2,2,1,11,7,4
+2018,9,Colombia,Octavos de Final,7,4,2,1,1,6,3,3
+2018,10,Espana,Octavos de Final,6,4,1,3,0,7,6,1
+2018,11,Dinamarca,Octavos de Final,6,4,1,3,0,3,2,1
+2018,12,Mexico,Octavos de Final,6,4,2,0,2,3,6,-3
+2018,13,Portugal,Octavos de Final,5,4,1,2,1,6,6,0
+2018,14,Suiza,Octavos de Final,5,4,1,2,1,5,5,0
+2018,15,Japon,Octavos de Final,4,4,1,1,2,6,7,-1
+2018,16,Argentina,Octavos de Final,4,4,1,1,2,6,9,-3
+2018,17,Senegal,Grupos 1ra Ronda,4,3,1,1,1,4,4,0
+2018,18,Iran,Grupos 1ra Ronda,4,3,1,1,1,2,2,0
+2018,19,Corea del Sur,Grupos 1ra Ronda,3,3,1,0,2,3,3,0
+2018,20,Peru,Grupos 1ra Ronda,3,3,1,0,2,2,2,0
+2018,21,Nigeria,Grupos 1ra Ronda,3,3,1,0,2,3,4,-1
+2018,22,Alemania,Grupos 1ra Ronda,3,3,1,0,2,2,4,-2
+2018,23,Serbia,Grupos 1ra Ronda,3,3,1,0,2,2,4,-2
+2018,24,Tunez,Grupos 1ra Ronda,3,3,1,0,2,5,8,-3
+2018,25,Polonia,Grupos 1ra Ronda,3,3,1,0,2,2,5,-3
+2018,26,Arabia Saudita,Grupos 1ra Ronda,3,3,1,0,2,2,7,-5
+2018,27,Marruecos,Grupos 1ra Ronda,1,3,0,1,2,2,4,-2
+2018,28,Islandia,Grupos 1ra Ronda,1,3,0,1,2,2,5,-3
+2018,29,Costa Rica,Grupos 1ra Ronda,1,3,0,1,2,2,5,-3
+2018,30,Australia,Grupos 1ra Ronda,1,3,0,1,2,2,5,-3
+2018,31,Egipto,Grupos 1ra Ronda,0,3,0,0,3,2,6,-4
+2018,32,Panama,Grupos 1ra Ronda,0,3,0,0,3,2,11,-9

@@ -1,0 +1,65 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+2018,1,14-Jun-2018,1ra Ronda,A,Rusia,5,0,Arabia Saudita
+2018,2,15-Jun-2018,1ra Ronda,A,Egipto,0,1,Uruguay
+2018,3,15-Jun-2018,1ra Ronda,B,Portugal,3,3,Espana
+2018,4,15-Jun-2018,1ra Ronda,B,Marruecos,0,1,Iran
+2018,5,16-Jun-2018,1ra Ronda,C,Francia,2,1,Australia
+2018,6,16-Jun-2018,1ra Ronda,C,Peru,0,1,Dinamarca
+2018,7,16-Jun-2018,1ra Ronda,D,Argentina,1,1,Islandia
+2018,8,16-Jun-2018,1ra Ronda,D,Croacia,2,0,Nigeria
+2018,9,17-Jun-2018,1ra Ronda,E,Brasil,1,1,Suiza
+2018,10,17-Jun-2018,1ra Ronda,E,Costa Rica,0,1,Serbia
+2018,11,17-Jun-2018,1ra Ronda,F,Alemania,0,1,Mexico
+2018,12,18-Jun-2018,1ra Ronda,F,Suecia,1,0,Corea del Sur
+2018,13,18-Jun-2018,1ra Ronda,G,Belgica,3,0,Panama
+2018,14,18-Jun-2018,1ra Ronda,G,Tunez,1,2,Inglaterra
+2018,15,19-Jun-2018,1ra Ronda,H,Polonia,1,2,Senegal
+2018,16,19-Jun-2018,1ra Ronda,H,Colombia,1,2,Japon
+2018,17,19-Jun-2018,1ra Ronda,A,Rusia,3,1,Egipto
+2018,18,20-Jun-2018,1ra Ronda,A,Uruguay,1,0,Arabia Saudita
+2018,19,20-Jun-2018,1ra Ronda,B,Portugal,1,0,Marruecos
+2018,20,20-Jun-2018,1ra Ronda,B,Iran,0,1,Espana
+2018,21,21-Jun-2018,1ra Ronda,C,Francia,1,0,Peru
+2018,22,21-Jun-2018,1ra Ronda,C,Dinamarca,1,1,Australia
+2018,23,21-Jun-2018,1ra Ronda,D,Argentina,0,3,Croacia
+2018,24,22-Jun-2018,1ra Ronda,D,Nigeria,2,0,Islandia
+2018,25,22-Jun-2018,1ra Ronda,E,Brasil,2,0,Costa Rica
+2018,26,22-Jun-2018,1ra Ronda,E,Serbia,1,2,Suiza
+2018,27,23-Jun-2018,1ra Ronda,F,Alemania,2,1,Suecia
+2018,28,23-Jun-2018,1ra Ronda,F,Corea del Sur,1,2,Mexico
+2018,29,23-Jun-2018,1ra Ronda,G,Belgica,5,2,Tunez
+2018,30,24-Jun-2018,1ra Ronda,G,Inglaterra,6,1,Panama
+2018,31,24-Jun-2018,1ra Ronda,H,Polonia,0,3,Colombia
+2018,32,24-Jun-2018,1ra Ronda,H,Japon,2,2,Senegal
+2018,33,25-Jun-2018,1ra Ronda,A,Uruguay,3,0,Rusia
+2018,34,25-Jun-2018,1ra Ronda,A,Arabia Saudita,2,1,Egipto
+2018,35,25-Jun-2018,1ra Ronda,B,Iran,1,1,Portugal
+2018,36,25-Jun-2018,1ra Ronda,B,Espana,2,2,Marruecos
+2018,37,26-Jun-2018,1ra Ronda,C,Dinamarca,0,0,Francia
+2018,38,26-Jun-2018,1ra Ronda,C,Australia,0,2,Peru
+2018,39,26-Jun-2018,1ra Ronda,D,Nigeria,1,2,Argentina
+2018,40,26-Jun-2018,1ra Ronda,D,Islandia,1,2,Croacia
+2018,41,27-Jun-2018,1ra Ronda,E,Serbia,0,2,Brasil
+2018,42,27-Jun-2018,1ra Ronda,E,Suiza,2,2,Costa Rica
+2018,43,27-Jun-2018,1ra Ronda,F,Corea del Sur,2,0,Alemania
+2018,44,27-Jun-2018,1ra Ronda,F,Mexico,0,3,Suecia
+2018,45,28-Jun-2018,1ra Ronda,G,Inglaterra,0,1,Belgica
+2018,46,28-Jun-2018,1ra Ronda,G,Panama,1,2,Tunez
+2018,47,28-Jun-2018,1ra Ronda,H,Japon,0,1,Polonia
+2018,48,28-Jun-2018,1ra Ronda,H,Senegal,0,1,Colombia
+2018,49,30-Jun-2018,Octavos,,Uruguay,2,1,Portugal
+2018,50,30-Jun-2018,Octavos,,Francia,4,3,Argentina
+2018,51,01-Jul-2018,Octavos,,Espana,1,1,Rusia
+2018,52,01-Jul-2018,Octavos,,Croacia,1,1,Dinamarca
+2018,53,02-Jul-2018,Octavos,,Brasil,2,0,Mexico
+2018,54,02-Jul-2018,Octavos,,Belgica,3,2,Japon
+2018,55,03-Jul-2018,Octavos,,Suecia,1,0,Suiza
+2018,56,03-Jul-2018,Octavos,,Colombia,1,1,Inglaterra
+2018,57,06-Jul-2018,Cuartos,,Uruguay,0,2,Francia
+2018,58,06-Jul-2018,Cuartos,,Brasil,1,2,Belgica
+2018,59,07-Jul-2018,Cuartos,,Rusia,2,2,Croacia
+2018,60,07-Jul-2018,Cuartos,,Suecia,0,2,Inglaterra
+2018,61,10-Jul-2018,Semis,,Francia,1,0,Belgica
+2018,62,11-Jul-2018,Semis,,Croacia,2,1,Inglaterra
+2018,63,14-Jul-2018,3er Puesto,,Belgica,2,0,Inglaterra
+2018,64,15-Jul-2018,Final,,Francia,4,2,Croacia

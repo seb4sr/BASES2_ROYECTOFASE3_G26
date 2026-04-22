@@ -1,0 +1,39 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+1974,1,13-Jun-1974,1ra Ronda,2,Brasil,0,0,Yugoslavia
+1974,2,14-Jun-1974,1ra Ronda,1,Alemania Occidental,1,0,Chile
+1974,3,14-Jun-1974,1ra Ronda,1,Alemania Oriental,2,0,Australia
+1974,4,14-Jun-1974,1ra Ronda,2,Zaire,0,2,Escocia
+1974,5,15-Jun-1974,1ra Ronda,3,Suecia,0,0,Bulgaria
+1974,6,15-Jun-1974,1ra Ronda,4,Polonia,3,2,Argentina
+1974,7,15-Jun-1974,1ra Ronda,4,Italia,3,1,Haiti
+1974,8,15-Jun-1974,1ra Ronda,3,Uruguay,0,2,Paises Bajos
+1974,9,18-Jun-1974,1ra Ronda,2,Escocia,0,0,Brasil
+1974,10,18-Jun-1974,1ra Ronda,1,Australia,0,3,Alemania Occidental
+1974,11,18-Jun-1974,1ra Ronda,2,Yugoslavia,9,0,Zaire
+1974,12,18-Jun-1974,1ra Ronda,1,Chile,1,1,Alemania Oriental
+1974,13,19-Jun-1974,1ra Ronda,3,Paises Bajos,0,0,Suecia
+1974,14,19-Jun-1974,1ra Ronda,4,Argentina,1,1,Italia
+1974,15,19-Jun-1974,1ra Ronda,4,Haiti,0,7,Polonia
+1974,16,19-Jun-1974,1ra Ronda,3,Bulgaria,1,1,Uruguay
+1974,17,22-Jun-1974,1ra Ronda,2,Zaire,0,3,Brasil
+1974,18,22-Jun-1974,1ra Ronda,1,Alemania Oriental,1,0,Alemania Occidental
+1974,19,22-Jun-1974,1ra Ronda,1,Australia,0,0,Chile
+1974,20,22-Jun-1974,1ra Ronda,2,Escocia,1,1,Yugoslavia
+1974,21,23-Jun-1974,1ra Ronda,4,Polonia,2,1,Italia
+1974,22,23-Jun-1974,1ra Ronda,4,Argentina,4,1,Haiti
+1974,23,23-Jun-1974,1ra Ronda,3,Bulgaria,1,4,Paises Bajos
+1974,24,23-Jun-1974,1ra Ronda,3,Suecia,3,0,Uruguay
+1974,25,26-Jun-1974,2da Ronda,B,Suecia,0,1,Polonia
+1974,26,26-Jun-1974,2da Ronda,B,Yugoslavia,0,2,Alemania Occidental
+1974,27,26-Jun-1974,2da Ronda,A,Paises Bajos,4,0,Argentina
+1974,28,26-Jun-1974,2da Ronda,A,Brasil,1,0,Alemania Oriental
+1974,29,30-Jun-1974,2da Ronda,A,Alemania Oriental,0,2,Paises Bajos
+1974,30,30-Jun-1974,2da Ronda,A,Argentina,1,2,Brasil
+1974,31,30-Jun-1974,2da Ronda,B,Polonia,2,1,Yugoslavia
+1974,32,30-Jun-1974,2da Ronda,B,Alemania Occidental,4,2,Suecia
+1974,33,03-Jul-1974,2da Ronda,B,Suecia,2,1,Yugoslavia
+1974,34,03-Jul-1974,2da Ronda,A,Argentina,1,1,Alemania Oriental
+1974,35,03-Jul-1974,2da Ronda,B,Polonia,0,1,Alemania Occidental
+1974,36,03-Jul-1974,2da Ronda,A,Paises Bajos,2,0,Brasil
+1974,37,06-Jul-1974,3er Puesto,,Brasil,0,1,Polonia
+1974,38,07-Jul-1974,Final,,Paises Bajos,1,2,Alemania Occidental

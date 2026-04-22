@@ -1,0 +1,53 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+1994,1,17-Jun-1994,1ra Ronda,C,Alemania,1,0,Bolivia
+1994,2,17-Jun-1994,1ra Ronda,C,Espana,2,2,Corea del Sur
+1994,3,18-Jun-1994,1ra Ronda,A,Estados Unidos,1,1,Suiza
+1994,4,18-Jun-1994,1ra Ronda,E,Italia,0,1,Irlanda
+1994,5,18-Jun-1994,1ra Ronda,A,Colombia,1,3,Rumania
+1994,6,19-Jun-1994,1ra Ronda,F,Belgica,1,0,Marruecos
+1994,7,19-Jun-1994,1ra Ronda,E,Noruega,1,0,Mexico
+1994,8,19-Jun-1994,1ra Ronda,B,Camerun,2,2,Suecia
+1994,9,20-Jun-1994,1ra Ronda,B,Brasil,2,0,Rusia
+1994,10,20-Jun-1994,1ra Ronda,F,Paises Bajos,2,1,Arabia Saudita
+1994,11,21-Jun-1994,1ra Ronda,D,Argentina,4,0,Grecia
+1994,12,21-Jun-1994,1ra Ronda,C,Alemania,1,1,Espana
+1994,13,21-Jun-1994,1ra Ronda,D,Nigeria,3,0,Bulgaria
+1994,14,22-Jun-1994,1ra Ronda,A,Rumania,1,4,Suiza
+1994,15,22-Jun-1994,1ra Ronda,A,Estados Unidos,2,1,Colombia
+1994,16,23-Jun-1994,1ra Ronda,E,Italia,1,0,Noruega
+1994,17,23-Jun-1994,1ra Ronda,C,Corea del Sur,0,0,Bolivia
+1994,18,24-Jun-1994,1ra Ronda,E,Mexico,2,1,Irlanda
+1994,19,24-Jun-1994,1ra Ronda,B,Brasil,3,0,Camerun
+1994,20,24-Jun-1994,1ra Ronda,B,Suecia,3,1,Rusia
+1994,21,25-Jun-1994,1ra Ronda,F,Belgica,1,0,Paises Bajos
+1994,22,25-Jun-1994,1ra Ronda,F,Arabia Saudita,2,1,Marruecos
+1994,23,25-Jun-1994,1ra Ronda,D,Argentina,2,1,Nigeria
+1994,24,26-Jun-1994,1ra Ronda,D,Bulgaria,4,0,Grecia
+1994,25,26-Jun-1994,1ra Ronda,A,Estados Unidos,0,1,Rumania
+1994,26,26-Jun-1994,1ra Ronda,A,Suiza,0,2,Colombia
+1994,27,27-Jun-1994,1ra Ronda,C,Bolivia,1,3,Espana
+1994,28,27-Jun-1994,1ra Ronda,C,Alemania,3,2,Corea del Sur
+1994,29,28-Jun-1994,1ra Ronda,E,Irlanda,0,0,Noruega
+1994,30,28-Jun-1994,1ra Ronda,E,Italia,1,1,Mexico
+1994,31,28-Jun-1994,1ra Ronda,B,Rusia,6,1,Camerun
+1994,32,28-Jun-1994,1ra Ronda,B,Brasil,1,1,Suecia
+1994,33,29-Jun-1994,1ra Ronda,F,Marruecos,1,2,Paises Bajos
+1994,34,29-Jun-1994,1ra Ronda,F,Belgica,0,1,Arabia Saudita
+1994,35,30-Jun-1994,1ra Ronda,D,Grecia,0,2,Nigeria
+1994,36,30-Jun-1994,1ra Ronda,D,Argentina,0,2,Bulgaria
+1994,37,02-Jul-1994,Octavos,,Alemania,3,2,Belgica
+1994,38,02-Jul-1994,Octavos,,Espana,3,0,Suiza
+1994,39,03-Jul-1994,Octavos,,Arabia Saudita,1,3,Suecia
+1994,40,03-Jul-1994,Octavos,,Rumania,3,2,Argentina
+1994,41,04-Jul-1994,Octavos,,Paises Bajos,2,0,Irlanda
+1994,42,04-Jul-1994,Octavos,,Brasil,1,0,Estados Unidos
+1994,43,05-Jul-1994,Octavos,,Nigeria,1,2,Italia
+1994,44,05-Jul-1994,Octavos,,Mexico,1,1,Bulgaria
+1994,45,09-Jul-1994,Cuartos,,Italia,2,1,Espana
+1994,46,09-Jul-1994,Cuartos,,Paises Bajos,2,3,Brasil
+1994,47,10-Jul-1994,Cuartos,,Bulgaria,2,1,Alemania
+1994,48,10-Jul-1994,Cuartos,,Rumania,2,2,Suecia
+1994,49,13-Jul-1994,Semis,,Bulgaria,1,2,Italia
+1994,50,13-Jul-1994,Semis,,Suecia,0,1,Brasil
+1994,51,16-Jul-1994,3er Puesto,,Suecia,4,0,Bulgaria
+1994,52,17-Jul-1994,Final,,Brasil,0,0,Italia

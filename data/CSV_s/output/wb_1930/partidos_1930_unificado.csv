@@ -1,0 +1,19 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+1930,1,13-Jul-1930,1ra Ronda,1,Francia,4,1,Mexico
+1930,2,13-Jul-1930,1ra Ronda,4,Estados Unidos,3,0,Belgica
+1930,3,14-Jul-1930,1ra Ronda,3,Rumania,3,1,Peru
+1930,4,14-Jul-1930,1ra Ronda,2,Yugoslavia,2,1,Brasil
+1930,5,15-Jul-1930,1ra Ronda,1,Argentina,1,0,Francia
+1930,6,16-Jul-1930,1ra Ronda,1,Chile,3,0,Mexico
+1930,7,17-Jul-1930,1ra Ronda,2,Yugoslavia,4,0,Bolivia
+1930,8,17-Jul-1930,1ra Ronda,4,Estados Unidos,3,0,Paraguay
+1930,9,18-Jul-1930,1ra Ronda,3,Uruguay,1,0,Peru
+1930,10,19-Jul-1930,1ra Ronda,1,Argentina,6,3,Mexico
+1930,11,19-Jul-1930,1ra Ronda,1,Chile,1,0,Francia
+1930,12,20-Jul-1930,1ra Ronda,4,Paraguay,1,0,Belgica
+1930,13,20-Jul-1930,1ra Ronda,2,Brasil,4,0,Bolivia
+1930,14,21-Jul-1930,1ra Ronda,3,Uruguay,4,0,Rumania
+1930,15,22-Jul-1930,1ra Ronda,1,Argentina,3,1,Chile
+1930,16,26-Jul-1930,Semis,,Argentina,6,1,Estados Unidos
+1930,17,27-Jul-1930,Semis,,Uruguay,6,1,Yugoslavia
+1930,18,30-Jul-1930,Final,,Argentina,2,4,Uruguay

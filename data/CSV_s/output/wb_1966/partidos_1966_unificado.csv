@@ -1,0 +1,33 @@
+anio,numero_partido,fecha,fase,grupo,seleccion_local,goles_local,goles_visita,seleccion_visita
+1966,1,11-Jul-1966,1ra Ronda,1,Inglaterra,0,0,Uruguay
+1966,2,12-Jul-1966,1ra Ronda,2,Alemania Occidental,5,0,Suiza
+1966,3,12-Jul-1966,1ra Ronda,4,URSS,3,0,Corea del Norte
+1966,4,12-Jul-1966,1ra Ronda,3,Brasil,2,0,Bulgaria
+1966,5,13-Jul-1966,1ra Ronda,1,Francia,1,1,Mexico
+1966,6,13-Jul-1966,1ra Ronda,4,Italia,2,0,Chile
+1966,7,13-Jul-1966,1ra Ronda,3,Portugal,3,1,Hungria
+1966,8,13-Jul-1966,1ra Ronda,2,Argentina,2,1,Espana
+1966,9,15-Jul-1966,1ra Ronda,1,Uruguay,2,1,Francia
+1966,10,15-Jul-1966,1ra Ronda,3,Hungria,3,1,Brasil
+1966,11,15-Jul-1966,1ra Ronda,2,Espana,2,1,Suiza
+1966,12,15-Jul-1966,1ra Ronda,4,Corea del Norte,1,1,Chile
+1966,13,16-Jul-1966,1ra Ronda,3,Portugal,3,0,Bulgaria
+1966,14,16-Jul-1966,1ra Ronda,2,Alemania Occidental,0,0,Argentina
+1966,15,16-Jul-1966,1ra Ronda,4,URSS,1,0,Italia
+1966,16,16-Jul-1966,1ra Ronda,1,Inglaterra,2,0,Mexico
+1966,17,19-Jul-1966,1ra Ronda,3,Portugal,3,1,Brasil
+1966,18,19-Jul-1966,1ra Ronda,1,Uruguay,0,0,Mexico
+1966,19,19-Jul-1966,1ra Ronda,2,Argentina,2,0,Suiza
+1966,20,19-Jul-1966,1ra Ronda,4,Corea del Norte,1,0,Italia
+1966,21,20-Jul-1966,1ra Ronda,1,Inglaterra,2,0,Francia
+1966,22,20-Jul-1966,1ra Ronda,2,Alemania Occidental,2,1,Espana
+1966,23,20-Jul-1966,1ra Ronda,4,URSS,2,1,Chile
+1966,24,20-Jul-1966,1ra Ronda,3,Hungria,3,1,Bulgaria
+1966,25,23-Jul-1966,Cuartos,,Portugal,5,3,Corea del Norte
+1966,26,23-Jul-1966,Cuartos,,Inglaterra,1,0,Argentina
+1966,27,23-Jul-1966,Cuartos,,Alemania Occidental,4,0,Uruguay
+1966,28,23-Jul-1966,Cuartos,,URSS,2,1,Hungria
+1966,29,25-Jul-1966,Semis,,Alemania Occidental,2,1,URSS
+1966,30,26-Jul-1966,Semis,,Inglaterra,2,1,Portugal
+1966,31,28-Jul-1966,3er Puesto,,Portugal,2,1,URSS
+1966,32,30-Jul-1966,Final,,Inglaterra,4,2,Alemania Occidental
